@@ -1,0 +1,8 @@
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.AssemblyInfo.cs
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.RazorAssemblyInfo.cache
+C:\Users\user\Documents\CSM\PRELIM EXAM\CalvinNicdao.PrelimExam\CalvinNicdao.PrelimExam\obj\Debug\net6.0\CalvinNicdao.PrelimExam.RazorAssemblyInfo.cs

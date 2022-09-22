@@ -4,8 +4,7 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Text.Json.Serialization;
 
-
-namespace CalvinNicdao.PrelimExam.Pages
+namespace CalvinNicdao.PrelimExam_.Pages
 {
     public class StudentModel : PageModel
     {
