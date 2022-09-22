@@ -4,7 +4,22 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>@Model.ViewModel.Weather.Weather?.FirstOrDefault()?.Main</h1>
+<h2>Current Temperature : @Model.ViewModel.Weather.Main.Temp</h2>
+<img src=@Model.ViewModel.Weather.Weather?".FirstOrDefault()?.Icon" alt=@Model.ViewModel.Weather.Weather?>
+
+<form method="Post">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect01">Options</label>
+        </div>
+        <select class="custom-select" id="inputGroupSelect01">
+            <option selected>Choose...</option>
+            <option value="Location">Dinalupihan</option>
+            <option value="Location">Olongapo</option>
+            <option value="Location">Angeles City</option>
+            <option value="Location">Davao City</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
